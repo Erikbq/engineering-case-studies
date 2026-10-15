@@ -13,7 +13,7 @@ Os documentos apresentam o contexto de cada projeto, minha contribuição, os co
 | --- | --- | --- |
 | [Inteligência comercial](./inteligencia-comercial.md) | Desenvolvimento individual de um dashboard para consolidar informações e comparar o desempenho comercial entre diferentes gestões. | Next.js, Supabase, APIs do Google e Pipefy, ingestão, backfill e automação. |
 | [Software científico](./software-cientifico.md) | Atuação em equipe na refatoração de uma ferramenta local de análise preditiva de rochas e no desenvolvimento de sua aplicação web. | Python, Next.js, NestJS, Docker Compose, Nginx, AWS, filas, auditoria e controle de acesso. |
-| [Engenharia de dados](./engenharia-de-dados.md) | Atuação em equipe no mapeamento e na modelagem de dados de um fundo de endowment, com migração em andamento. | Modelagem descritiva e relacional, ETL e arquitetura medalhão. |
+| [Engenharia de dados](./engenharia-de-dados.md) | Modelos da área de projetos concluídos e ETL em desenvolvimento para um fundo de endowment. | Modelagem descritiva e relacional, Python, APIs e Railway. |
 
 ## Escopo da documentação
 
